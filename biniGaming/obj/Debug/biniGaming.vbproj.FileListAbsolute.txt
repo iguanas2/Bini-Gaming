@@ -1,0 +1,17 @@
+C:\Users\Vinícius\Desktop\Repositórios\VB.NET\biniGaming\obj\Debug\biniGaming.vbproj.AssemblyReference.cache
+C:\Users\Vinícius\Desktop\Repositórios\VB.NET\biniGaming\obj\Debug\biniGaming.formSelect.resources
+C:\Users\Vinícius\Desktop\Repositórios\VB.NET\biniGaming\obj\Debug\biniGaming.Resources.resources
+C:\Users\Vinícius\Desktop\Repositórios\VB.NET\biniGaming\obj\Debug\biniGaming.vbproj.GenerateResource.cache
+C:\Users\Vinícius\Desktop\Repositórios\VB.NET\biniGaming\obj\Debug\biniGaming.vbproj.CoreCompileInputs.cache
+C:\Users\Vinícius\Desktop\Repositórios\VB.NET\biniGaming\obj\Debug\biniGaming.FormLoc.resources
+C:\Users\Vinícius\Desktop\Repositórios\VB.NET\biniGaming\bin\Debug\biniGaming.exe.config
+C:\Users\Vinícius\Desktop\Repositórios\VB.NET\biniGaming\bin\Debug\biniGaming.exe
+C:\Users\Vinícius\Desktop\Repositórios\VB.NET\biniGaming\bin\Debug\biniGaming.pdb
+C:\Users\Vinícius\Desktop\Repositórios\VB.NET\biniGaming\bin\Debug\biniGaming.xml
+C:\Users\Vinícius\Desktop\Repositórios\VB.NET\biniGaming\obj\Debug\biniGaming.exe
+C:\Users\Vinícius\Desktop\Repositórios\VB.NET\biniGaming\obj\Debug\biniGaming.xml
+C:\Users\Vinícius\Desktop\Repositórios\VB.NET\biniGaming\obj\Debug\biniGaming.pdb
+C:\Users\Vinícius\Desktop\Repositórios\VB.NET\biniGaming\obj\Debug\biniGaming.FormLogin.resources
+C:\Users\Vinícius\Desktop\Repositórios\VB.NET\biniGaming\obj\Debug\biniGaming.FormADM.resources
+C:\Users\Vinícius\Desktop\Repositórios\VB.NET\biniGaming\obj\Debug\biniGaming.FormRegistrar.resources
+C:\Users\Vinícius\Desktop\Repositórios\VB.NET\biniGaming\obj\Debug\biniGaming.FormXerox.resources
